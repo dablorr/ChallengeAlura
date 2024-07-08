@@ -7,7 +7,6 @@
     - [Descrição](#Descrição)
     - [O que aprendeu](#Tópicos-abordados-durante-o-desafio)
     - [Techs Utilizadas](#Techs-utilizadas)
-    - [Contato](#Contato)
 
 # Codificablorr
 Olá, mundo! Esse é meu projeto Codificador e Descodificador de textos.
